@@ -5,8 +5,8 @@ public class Calculator {
 	void menu() {
 		System.out.println("계산기 입니다.");
 		System.out.println("MENU");
-		
-		
+		System.out.println("여길 고친 부분임");
+		System.out.println("고친 부분2");
 
 		
 		
